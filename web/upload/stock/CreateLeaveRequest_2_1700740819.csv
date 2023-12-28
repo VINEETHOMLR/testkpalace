@@ -1,0 +1,4 @@
+sl.no,Email,Year,Leave Name,Leave Type,From Date,To Date,Status,Reason
+1,floor@gmail.com,2023,Annual Leave,Half Day,10/11/2023,10/11/2023,APPROVED,Test reason
+2,floor@gmail.com,2023,Annual Leave,Full Day,10/11/2023,10/11/2023,REQUESTED,Test reason
+3,floor@gmail.com,2024,Annual Leave,Half Day,10/11/2023,10/11/2023,REJECTED,Test Reason
